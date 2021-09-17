@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan Qualifier.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan_Qualifier.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan_Qualifier.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan Qualifier.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan Qualifier.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\Loan Qualifier\obj\Debug\Loan Qualifier.pdb
